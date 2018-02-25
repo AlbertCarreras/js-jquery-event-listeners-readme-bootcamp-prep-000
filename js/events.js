@@ -19,9 +19,13 @@ function pressIt(){
 }
 
 function submitIt() {
+<<<<<<< HEAD
   $("form").on("submit", function(){
     alert("Your form is going to be submitted now.");
   })
+=======
+  $(altpe="submit")
+>>>>>>> e85b25f4b30b0dc975810b05e6ce17e55eea945f
 }
 
 $(document).ready(function(){
